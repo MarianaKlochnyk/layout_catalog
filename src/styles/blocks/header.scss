@@ -13,11 +13,10 @@
   justify-content: space-between;
   align-items: center;
   padding: 0 50px;
-}
-
-.logo {
-  height: auto;
-  display: block;
+  &__logo{
+    height: auto;
+    display: block;
+  }
 }
 
 ul {
