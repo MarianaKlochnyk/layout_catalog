@@ -1,7 +1,6 @@
 .catalog {
   display: grid;
-  column-gap: 46px;
-  row-gap: 48px;
+  gap: 48px 46px;
   padding: 50px 40px;
   grid-template-columns: repeat(1, 200px);
   justify-content: center;
